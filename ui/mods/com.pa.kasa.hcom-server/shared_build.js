@@ -27,7 +27,6 @@ var newBuild = {
 	"/pa/units/land/energy_coil/energy_coil_am.json": ["ele", 7, { row: 2, column: 1 }],
 	"/pa/units/land/pylon/pylon.json": ["ele", 3, { row: 1, column: 0 }],
 	"/pa/units/land/pylon/pylon_am.json": ["ele", 4, { row: 1, column: 1 }],
-	"/pa/units/land/spell_heal/spell_heal.json": ["ele", 8, { row: 2, column: 2 }],
 	"/pa/units/land/control_tower/control_tower.json": ["ele", 0, { row: 0, column: 0 }],
 	"/pa/units/land/edison/edison.json": ["ele", 1, { row: 0, column: 1 }],
 	"/pa/units/land/spell_heal/spell_heal_bal.json": ["ele", 5, { row: 1, column: 2 }],
