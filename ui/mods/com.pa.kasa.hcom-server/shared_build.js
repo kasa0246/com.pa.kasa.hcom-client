@@ -180,60 +180,40 @@ var newBuild = {
 	//arsenal unlocks
 
 	"/pa/units/arsenal/unlocks/assault_bot_up_unlock/assault_bot_up_unlock.json": ["arsenal", 2, { row: 2, column: 0 }],
-	"/pa/units/arsenal/unlocks/assault_bot_up_unlock/assault_bot_up_arsenal.json": ["arsenal_2", 2, { row: 2, column: 1 }],
 
 	"/pa/units/arsenal/unlocks/bot_grenadier_up_unlock/bot_grenadier_up_unlock.json": ["arsenal", 2, { row: 2, column: 1 }],
-	"/pa/units/arsenal/unlocks/bot_grenadier_up_unlock/bot_grenadier_up_arsenal.json": ["arsenal_2", 2, { row: 2, column: 2 }],
 
 	"/pa/units/arsenal/unlocks/bot_rpg_up_unlock/bot_rpg_up_unlock.json": ["arsenal", 2, { row: 2, column: 2 }],
-	"/pa/units/arsenal/unlocks/bot_rpg_up_unlock/bot_rpg_up_arsenal.json": ["arsenal_2", 2, { row: 2, column: 3 }],
 
 	"/pa/units/arsenal/unlocks/assault_bot_adv_up_unlock/assault_bot_adv_up_unlock.json": ["arsenal", 2, { row: 2, column: 3 }],
-	"/pa/units/arsenal/unlocks/assault_bot_adv_up_unlock/assault_bot_adv_up_arsenal.json": ["arsenal_2", 2, { row: 2, column: 4 }],
 
 	"/pa/units/arsenal/unlocks/bot_sniper_up_unlock/bot_sniper_up_unlock.json": ["arsenal", 2, { row: 2, column: 4 }],
-	"/pa/units/arsenal/unlocks/bot_sniper_up_unlock/bot_sniper_up_arsenal.json": ["arsenal_2", 2, { row: 2, column: 5 }],
 
 	"/pa/units/arsenal/unlocks/adv_heavy_bot_up_unlock/adv_heavy_bot_up_unlock.json": ["arsenal", 2, { row: 2, column: 5 }],
-	"/pa/units/arsenal/unlocks/adv_heavy_bot_up_unlock/adv_heavy_bot_up_arsenal.json": ["arsenal_2", 2, { row: 2, column: 6 }],
 
 	"/pa/units/arsenal/unlocks/tank_light_laser_up_unlock/tank_light_laser_up_unlock.json": ["arsenal", 2, { row: 1, column: 0 }],
-	"/pa/units/arsenal/unlocks/tank_light_laser_up_unlock/tank_light_laser_up_arsenal.json": ["arsenal_2", 2, { row: 1, column: 1 }],
 
 	"/pa/units/arsenal/unlocks/tank_hover_up_unlock/tank_hover_up_unlock.json": ["arsenal", 2, { row: 1, column: 1 }],
-	"/pa/units/arsenal/unlocks/tank_hover_up_unlock/tank_hover_up_arsenal.json": ["arsenal_2", 2, { row: 1, column: 2 }],
 
 	"/pa/units/arsenal/unlocks/tank_laser_adv_up_unlock/tank_laser_adv_up_unlock.json": ["arsenal", 2, { row: 1, column: 2 }],
-	"/pa/units/arsenal/unlocks/tank_laser_adv_up_unlock/tank_laser_adv_up_arsenal.json": ["arsenal_2", 2, { row: 1, column: 3 }],
 
 	"/pa/units/arsenal/unlocks/tank_heavy_armor_up_unlock/tank_heavy_armor_up_unlock.json": ["arsenal", 2, { row: 1, column: 3 }],
-	"/pa/units/arsenal/unlocks/tank_heavy_armor_up_unlock/tank_heavy_armor_up_arsenal.json": ["arsenal_2", 2, { row: 1, column: 4 }],
 
 	"/pa/units/arsenal/unlocks/tank_heavy_mortar_up_unlock/tank_heavy_mortar_up_unlock.json": ["arsenal", 2, { row: 1, column: 4 }],
-	"/pa/units/arsenal/unlocks/tank_heavy_mortar_up_unlock/tank_heavy_mortar_up_arsenal.json": ["arsenal_2", 2, { row: 1, column: 5 }],
 
 	"/pa/units/arsenal/unlocks/nuke_unlock/nuke_unlock.json": ["arsenal", 2, { row: 0, column: 0 }],
-	"/pa/units/arsenal/unlocks/nuke_unlock/nuke_arsenal.json": ["arsenal_2", 2, { row: 0, column: 1 }],
 
 	"/pa/units/arsenal/unlocks/anti_nuke_up_unlock/anti_nuke_up_unlock.json": ["arsenal", 2, { row: 0, column: 3 }],
-	"/pa/units/arsenal/unlocks/anti_nuke_up_unlock/anti_nuke_up_arsenal.json": ["arsenal_2", 2, { row: 0, column: 4 }],
 
 	"/pa/units/arsenal/unlocks/nuke_ammo_unlock/nuke_ammo_unlock.json": ["arsenal", 2, { row: 0, column: 1 }],
-	"/pa/units/arsenal/unlocks/nuke_ammo_unlock/nuke_ammo_arsenal.json": ["arsenal_2", 2, { row: 0, column: 2 }],
 
 	"/pa/units/arsenal/unlocks/hype_ammo_unlock/hype_ammo_unlock.json": ["arsenal", 2, { row: 0, column: 2 }],
-	"/pa/units/arsenal/unlocks/hype_ammo_unlock/hype_ammo_arsenal.json": ["arsenal_2", 2, { row: 0, column: 3 }],
 
 	"/pa/units/arsenal/unlocks/gunship_up_unlock/gunship_up_unlock.json": ["arsenal", 2, { row: 0, column: 4 }],
-	"/pa/units/arsenal/unlocks/gunship_up_unlock/gunship_up_arsenal.json": ["arsenal_2", 2, { row: 0, column: 5 }],
-
-
 
 	"/pa/units/arsenal/unlocks/orbital_battleship_up_unlock/orbital_battleship_up_unlock.json": ["arsenal", 2, { row: 0, column: 8 }],
-	"/pa/units/arsenal/unlocks/orbital_battleship_up_unlock/orbital_battleship_up_arsenal.json": ["arsenal_2", 2, { row: 0, column: 9 }],
 
 	"/pa/units/arsenal/unlocks/orbital_railgun_up_unlock/orbital_railgun_up_unlock.json": ["arsenal", 2, { row: 1, column: 8 }],
-	"/pa/units/arsenal/unlocks/orbital_railgun_up_unlock/orbital_railgun_up_arsenal.json": ["arsenal_2", 2, { row: 1, column: 9 }],
 
 
 
