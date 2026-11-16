@@ -16,9 +16,9 @@
         "titans"
     ],
     "context": "client",
-    "date": "2026-11-12",
-    "build": "124685",
-    "version": "1.1.0",
+    "date": "2026-11-16",
+    "build": "124723",
+    "version": "1.5.0",
     "dependencies": [
         "com.pa.kasa.hcom-server"
     ],
@@ -31,17 +31,14 @@
         "shared_build": [
             "coui://ui/mods/com.pa.kasa.hcom-server/shared_build.js"
         ],
-        "icon_atlas": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/icon_atlas.js"
-        ],
         "live_game": [
             "coui://ui/mods/com.pa.kasa.hcom-server/hcom_hide_sandbox_ui.js"
         ],
         "live_game_options_bar": [
-            "coui://ui/mods/AutoFactory/live_game_options_bar/init.js"
+            "coui://ui/mods/com.pa.kasa.hcom-server/live_game_options_bar/init.js"
         ],
         "live_game_time_bar": [
-            "coui://ui/mods/AutoFactory/live_game/AutoFactoryTime.js"
+            "coui://ui/mods/com.pa.kasa.hcom-server/live_game/AutoFactoryTime.js"
         ],
         "live_game_action_bar": [
             "coui://ui/mods/com.pa.kasa.hcom-server/hcom_armed_factory_fire_orders.js"
