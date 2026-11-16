@@ -28,7 +28,9 @@
             "coui://ui/mods/com.pa.kasa.hcom-server/hcom_lobby.js",
             "coui://ui/mods/com.pa.kasa.hcom-server/hcom_force_sandbox.js"
         ],
-
+        "live_game": [
+            "coui://ui/mods/com.pa.kasa.hcom-server/live_game/init.js"
+        ],
         "live_game_options_bar": [
             "coui://ui/mods/com.pa.kasa.hcom-server/live_game_options_bar/init.js"
         ],
