@@ -28,12 +28,7 @@
             "coui://ui/mods/com.pa.kasa.hcom-server/hcom_lobby.js",
             "coui://ui/mods/com.pa.kasa.hcom-server/hcom_force_sandbox.js"
         ],
-        "shared_build": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/shared_build.js"
-        ],
-        "live_game": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/hcom_hide_sandbox_ui.js"
-        ],
+
         "live_game_options_bar": [
             "coui://ui/mods/com.pa.kasa.hcom-server/live_game_options_bar/init.js"
         ],
