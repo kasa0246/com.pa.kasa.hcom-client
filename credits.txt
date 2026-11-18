@@ -1,0 +1,9 @@
+- Mr.Loló, ARES LORD for assets from Osmech (Bunker, Metal Assimilator, Halabib, Kamecha, Drill, Freezer, Skybreaker, Spell Tower).
+- NikolaMX, BOIYOUSAYWHAT for unit models from Exiles (Anti-ballistics, Heron, Shah, Cougar, Ocelot, Pylon, Seizmic, Ambush Tower, Improved Metal Extractor and NI missiles).
+- Team DAEDALUS, Quildtide, Taiga, Anonemous2 for T3 foundations.
+- Second Wave Team for their great work.
+- Bot, Taiga for upgradable turret mechanics idea.
+- domdom for .pfx guide and inspiration.
+- wondible for Titan Gantry.
+- BotWhan for Edison model.
+- Ferretmaster for Control Tower model and AutoFactory scripts.
