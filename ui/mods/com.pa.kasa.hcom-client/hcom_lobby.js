@@ -1,6 +1,6 @@
 (function () {
     'use strict';
-    var panelUrl = 'coui://ui/mods/com.pa.kasa.hcom-server/hcom_lobby.html';
+    var panelUrl = 'coui://ui/mods/com.pa.kasa.hcom-client/hcom_lobby.html';
     function addHcomPanel() {
         if ($('#hcom-info-panel').length) return;
         var row = $('.lobby_table tbody:first tr:nth-child(2)');
