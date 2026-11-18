@@ -9,7 +9,7 @@
     $(".option-list.keyboard").parent().append(
         $.ajax({
             type: "GET",
-            url: 'coui://ui/mods/Autofactory/settings/Autofactory.html',
+            url: 'coui://ui/mods/com.pa.kasa.hcom-client/settings/Autofactory.html',
             async: false
         }).responseText
     );

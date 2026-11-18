@@ -24,21 +24,21 @@
     ],
     "scenes": {
         "new_game": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/new_game.js",
-            "coui://ui/mods/com.pa.kasa.hcom-server/hcom_lobby.js",
-            "coui://ui/mods/com.pa.kasa.hcom-server/hcom_force_sandbox.js"
+            "coui://ui/mods/com.pa.kasa.hcom-client/new_game.js",
+            "coui://ui/mods/com.pa.kasa.hcom-client/hcom_lobby.js",
+            "coui://ui/mods/com.pa.kasa.hcom-client/hcom_force_sandbox.js"
         ],
         "live_game": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/live_game/init.js"
+            "coui://ui/mods/com.pa.kasa.hcom-client/live_game/init.js"
         ],
         "live_game_options_bar": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/live_game_options_bar/init.js"
+            "coui://ui/mods/com.pa.kasa.hcom-client/live_game_options_bar/init.js"
         ],
         "live_game_time_bar": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/live_game/AutoFactoryTime.js"
+            "coui://ui/mods/com.pa.kasa.hcom-client/live_game/AutoFactoryTime.js"
         ],
         "live_game_action_bar": [
-            "coui://ui/mods/com.pa.kasa.hcom-server/hcom_armed_factory_fire_orders.js"
+            "coui://ui/mods/com.pa.kasa.hcom-client/hcom_armed_factory_fire_orders.js"
         ]
     }
 }
