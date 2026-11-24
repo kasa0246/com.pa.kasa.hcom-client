@@ -16,9 +16,9 @@
         "titans"
     ],
     "context": "client",
-    "date": "2026-11-21",
+    "date": "2026-11-24",
     "build": "124723",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "dependencies": [
         "com.pa.kasa.hcom-server"
     ],

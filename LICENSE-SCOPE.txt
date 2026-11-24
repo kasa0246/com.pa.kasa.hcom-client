@@ -10,18 +10,18 @@ The presence of any material within H-COM does not imply ownership of that mater
 
 ## 2. ORIGINAL H-COM WORK
 
-The MIT License included with H-COM applies exclusively to original materials created by kasa for H-COM and explicitly identified in MIT-INCLUSIONS.txt.
+The MIT License included with H-COM applies exclusively to original materials created by kasa for H-COM and explicitly identified in LICENSE-INCLUSIONS.txt.
 This may include original particle effects, models, textures, scripts, configuration files and other independently created materials.
-Materials not explicitly identified in MIT-INCLUSIONS.txt are not covered by the H-COM MIT License.
+Materials not explicitly identified in LICENSE-INCLUSIONS.txt are not covered by the H-COM MIT License.
 The MIT License does not grant rights to any third-party materials or original Planetary Annihilation game assets.
 
 ## 3. INCLUDED MATERIALS
 
-MIT-INCLUSIONS.txt provides an explicit inventory of original materials created by kasa that are covered by the H-COM MIT License.
+LICENSE-INCLUSIONS.txt provides an explicit inventory of original materials created by kasa that are covered by the H-COM MIT License.
 Only materials identified in this document are included within the scope of the H-COM MIT License.
 The inclusion of a modified version of an existing third-party or original game asset does not automatically establish ownership of the underlying material or grant relicensing rights to kasa.
 
-Materials not listed in MIT-INCLUSIONS.txt remain subject to their respective original ownership and licensing conditions.
+Materials not listed in LICENSE-INCLUSIONS.txt remain subject to their respective original ownership and licensing conditions.
 
 ## 4. THIRD-PARTY MATERIALS AND ATTRIBUTION
 
@@ -49,13 +49,13 @@ The following documents describe the licensing structure of H-COM:
 
 **LICENSE**
 
-The MIT License governing original H-COM contributions created by kasa and explicitly included in MIT-INCLUSIONS.txt.
+The MIT License governing original H-COM contributions created by kasa and explicitly included in LICENSE-INCLUSIONS.txt.
 
 **LICENSE-SCOPE.txt**
 
 This document, explaining the scope and relationship of the licensing documents.
 
-**MIT-INCLUSIONS.txt**
+**LICENSE-INCLUSIONS.txt**
 
 An explicit inventory of original materials created by kasa and covered by the H-COM MIT License.
 
@@ -69,7 +69,7 @@ The applicable third-party license texts, copyright notices and attribution reco
 
 ## 8. OWNERSHIP DISCLAIMER
 
-Unless explicitly identified as original H-COM work created by kasa and listed in MIT-INCLUSIONS.txt, no claim of authorship or ownership is made over third-party assets, dependency contents or original Planetary Annihilation game materials.
+Unless explicitly identified as original H-COM work created by kasa and listed in LICENSE-INCLUSIONS.txt, no claim of authorship or ownership is made over third-party assets, dependency contents or original Planetary Annihilation game materials.
 
 All such materials remain the property of their respective copyright holders.
 
