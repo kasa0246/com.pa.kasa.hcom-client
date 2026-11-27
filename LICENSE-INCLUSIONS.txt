@@ -211,10 +211,7 @@ The following .papa files were independently created by kasa for H-COM and are r
 Any additional original materials released under the MIT License must be explicitly listed here.
 
 **Files:**
-- /ui/mods/com.pa.kasa.hcom-server/spawn_landing_capsule.js"
 - /ui/mods/com.pa.kasa.hcom-server/hcom_armed_factory_fire_orders.js"
-- /ui/mods/com.pa.kasa.hcom-server/hcom_force_sandbox.js"
-- /ui/mods/com.pa.kasa.hcom-server/hcom_hide_sandbox_ui.js"
 - /ui/mods/com.pa.kasa.hcom-server/mechanics.js"
 
 - /ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_pineapple.png
