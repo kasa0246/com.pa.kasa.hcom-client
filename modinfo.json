@@ -1,7 +1,7 @@
 {
     "identifier": "com.pa.kasa.hcom-client",
     "display_name": "Hardcore Combat Overhaul Mod - client",
-    "description": "A massive gameplay overhaul and expansion built on Second Wave and Section 17, reworking nearly every aspect of Planetary Annihilation: TITANS. Features new units, technologies, mechanics and a complete rework of combat, economy, production, vision and detection. H-COM is a standalone PvP overhaul. Second Wave and Section 17 are required dependencies. Incompatible with other server-side gameplay mods and expansions. AI armies are not supported.",
+    "description": "Contains H-COM unit models and textures. IMPORTANT: Disable this mod before joining any non-H-COM game, as it overrides base game files. It does not automatically disable when the H-COM server mod is disabled, despite what CMM may indicate.",
     "author": "kasa",
     "signature": " ",
     "priority": 142,
@@ -16,9 +16,9 @@
         "titans"
     ],
     "context": "client",
-    "date": "2026-11-24",
+    "date": "2026-11-27",
     "build": "124723",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "dependencies": [
         "com.pa.kasa.hcom-server"
     ],
